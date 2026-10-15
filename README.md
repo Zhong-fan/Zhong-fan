@@ -21,8 +21,4 @@ Hangzhou-based eating engineer. Bread baker, milk-drink tinkerer, and longtime s
 
 - Made the web UI's [Plan Ready handoff actionable](https://github.com/openpi-dev/openpi/pull/634), so a prepared plan can be continued from the interface.
 
-### [Misyn](https://github.com/yzdy-s/Misyn) [![GitHub stars](https://img.shields.io/github/stars/yzdy-s/Misyn?style=flat&label=stars)](https://github.com/yzdy-s/Misyn/stargazers)
-
-- Added [channel invitations and member controls](https://github.com/yzdy-s/Misyn/pull/7), including invite lists, invite rejection, kicking and muting members, and configurable channel-join modes.
-
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
