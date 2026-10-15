@@ -1,6 +1,6 @@
 Hello! Remember to eat lunch!
 
-Hangzhou-based eating engineer. Bread baker, milk-drink tinkerer, and longtime sleep practitioner.
+I am China Hangzhou-based eating engineer. Bread baker, milk-drink tinkerer, and longtime sleep practitioner.
 
 ## Contributions
 
