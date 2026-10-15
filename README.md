@@ -1,6 +1,4 @@
-## About me
-
-Hangzhou-based eating engineer. Bread baker, milk-drink tinkerer, and longtime sleep practitioner.
+你好！记得吃中饭！
 
 ## Contributions
 
