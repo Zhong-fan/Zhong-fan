@@ -2,6 +2,8 @@ Hello! Remember to eat lunch!
 
 I'm an eating engineer from Hangzhou, Zhejiang, China. I specialize in bread baking and making milk-based drinks, and I've spent years honing my sleep skills.
 
+[X: @Jidechizhongfan](https://x.com/Jidechizhongfan)
+
 ## Contributions
 
 ### [REA](https://github.com/morluto/rea) [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&label=stars)](https://github.com/morluto/rea/stargazers)
