@@ -1,4 +1,6 @@
-你好！记得吃中饭！
+Hello! Remember to eat lunch!
+
+Hangzhou-based eating engineer. Bread baker, milk-drink tinkerer, and longtime sleep practitioner.
 
 ## Contributions
 
