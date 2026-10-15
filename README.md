@@ -8,10 +8,10 @@ I'm an eating engineer from Hangzhou, Zhejiang, China. I specialize in bread bak
 
 ### [REA](https://github.com/morluto/rea) [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&label=stars)](https://github.com/morluto/rea/stargazers)
 
-- Added [raw NMOS 6502 analysis support](https://github.com/morluto/rea/pull/2079) to Ghidra for explicitly selected, headerless 6502 images, with load-address handling and checks against the original file bytes.
+- Added [raw NMOS 6502 analysis support](https://github.com/morluto/rea/pull/2079) to Ghidra for explicitly selected, headerless 6502 images, with load-address handling and checks against the original file bytes. The contribution was credited by name in the [REA 6.5.0 release notes](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0).
 - Fixed [file-offset resolution in Ghidra decompilation](https://github.com/morluto/rea/pull/2101), so decompiled functions map to the correct locations in the original file.
-- Contributed fixes to inline `Evidence` admission, rejecting accessors and executable array members before parsing and bounding array admission. The work was integrated into [#3613](https://github.com/morluto/rea/pull/3613), a shared PR opened by N0zoM1z0 and later merged.
-- Added [classic iNES region inspection and extraction](https://github.com/morluto/rea/pull/2816), with checks that tie extracted regions back to the inspected input. This work is ongoing in #2816; the initial PR, [#2087](https://github.com/morluto/rea/pull/2087), was closed in favor of this continuation.
+- Contributed fixes to inline `Evidence` admission, rejecting accessors and executable array members before parsing and bounding array admission. The work was integrated into [#3613](https://github.com/morluto/rea/pull/3613), a merged PR opened by N0zoM1z0 that preserves the original Git history and records GitHub co-author credit.
+- Contributed [classic iNES region inspection and extraction](https://github.com/morluto/rea/pull/2087), continued in maintainer-opened [#2816](https://github.com/morluto/rea/pull/2816). The continuation credits @Zhong-fan with the implementation and follow-up fixes and preserves the original commits; #2816 remains open.
 
 ### [Seiso](https://github.com/scarletkc/seiso) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/seiso?style=flat&label=stars)](https://github.com/scarletkc/seiso/stargazers)
 
