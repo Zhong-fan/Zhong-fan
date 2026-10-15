@@ -10,6 +10,7 @@ I'm an eating engineer from Hangzhou, Zhejiang, China. I specialize in bread bak
 
 - Added [raw NMOS 6502 analysis support](https://github.com/morluto/rea/pull/2079) to Ghidra for explicitly selected, headerless 6502 images, with load-address handling and checks against the original file bytes.
 - Fixed [file-offset resolution in Ghidra decompilation](https://github.com/morluto/rea/pull/2101), so decompiled functions map to the correct locations in the original file.
+- Contributed fixes to inline `Evidence` admission, rejecting accessors and executable array members before parsing and bounding array admission. The work was integrated into [#3613](https://github.com/morluto/rea/pull/3613), a shared PR opened by N0zoM1z0 and later merged.
 - Added [classic iNES region inspection and extraction](https://github.com/morluto/rea/pull/2816), with checks that tie extracted regions back to the inspected input. This work is ongoing in #2816; the initial PR, [#2087](https://github.com/morluto/rea/pull/2087), was closed in favor of this continuation.
 
 ### [Seiso](https://github.com/scarletkc/seiso) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/seiso?style=flat&label=stars)](https://github.com/scarletkc/seiso/stargazers)
