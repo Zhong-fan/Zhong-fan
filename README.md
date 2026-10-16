@@ -13,6 +13,10 @@ I'm an eating engineer from Hangzhou, Zhejiang, China. I specialize in bread bak
 - Contributed fixes to inline `Evidence` admission, rejecting accessors and executable array members before parsing and bounding array admission. The work was integrated into [#3613](https://github.com/morluto/rea/pull/3613), a merged PR opened by N0zoM1z0 that preserves the original Git history and records GitHub co-author credit.
 - Implemented classic iNES region inspection and extraction, with follow-up work in [#2816](https://github.com/morluto/rea/pull/2816).
 
+### [Super Productivity](https://github.com/super-productivity/super-productivity) [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=flat&label=stars)](https://github.com/super-productivity/super-productivity/stargazers)
+
+- Fixed configured previous/next task navigation on project group headers, so shortcuts can continue across grouped tasks ([#10822](https://github.com/super-productivity/super-productivity/pull/10822)).
+
 ### [Seiso](https://github.com/scarletkc/seiso) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/seiso?style=flat&label=stars)](https://github.com/scarletkc/seiso/stargazers)
 
 - Linked diagnostics to versioned rule documentation in JSON and SARIF output, so editors and code review tools can open the explanation for a finding ([#22](https://github.com/scarletkc/seiso/pull/22)).
