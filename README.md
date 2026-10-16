@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=28&amp;duration=3200&amp;pause=900&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=55&amp;lines=Hello%21%20Remember%20to%20eat%20lunch%21%20%F0%9F%91%8B%3BBaking%20bread%20%26%20making%20milk%20drinks%3BStill%20honing%20my%20sleep%20skills%20%F0%9F%98%B4" alt="Hello! Remember to eat lunch! 👋; Baking bread &amp; making milk drinks; Still honing my sleep skills 😴" />
 </p>
 
-<p align="center">A food lover</p>
+<p align="center">Someone who loves to eat</p>
 
 <p align="center"><a href="https://x.com/Jidechizhongfan"><img src="https://img.shields.io/badge/X-%40Jidechizhongfan-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @Jidechizhongfan" /></a></p>
 
