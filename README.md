@@ -12,10 +12,6 @@
 
 <p align="center">Selected merged work across five public repositories</p>
 
-### [Ludusavi](https://github.com/mtkennerly/ludusavi) [![GitHub stars](https://img.shields.io/github/stars/mtkennerly/ludusavi?style=for-the-badge&label=stars)](https://github.com/mtkennerly/ludusavi/stargazers)
-
-- **Made the duplicates filter easier to clear** by keeping the status-row badge available after matching games are hidden or conflicts are resolved, for both backup and restore ([#655](https://github.com/mtkennerly/ludusavi/pull/655)).
-
 ### [REA](https://github.com/morluto/rea) [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=for-the-badge&label=stars)](https://github.com/morluto/rea/stargazers)
 
 - **Added [raw NMOS 6502 analysis support](https://github.com/morluto/rea/pull/2079)** to Ghidra for explicitly selected, headerless 6502 images, with load-address handling and checks against the original file bytes. The contribution was credited by name in the [REA 6.5.0 release notes](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0).
@@ -27,6 +23,10 @@
 
 - **Preserved priority across recurring tasks**, adding a series-level default that carries to future occurrences while retaining per-task overrides ([#10821](https://github.com/super-productivity/super-productivity/pull/10821)).
 - **Fixed configured previous/next task navigation on project group headers**, so shortcuts can continue across grouped tasks ([#10822](https://github.com/super-productivity/super-productivity/pull/10822)).
+
+### [Ludusavi](https://github.com/mtkennerly/ludusavi) [![GitHub stars](https://img.shields.io/github/stars/mtkennerly/ludusavi?style=for-the-badge&label=stars)](https://github.com/mtkennerly/ludusavi/stargazers)
+
+- **Made the duplicates filter easier to clear** by keeping the status-row badge available after matching games are hidden or conflicts are resolved, for both backup and restore ([#655](https://github.com/mtkennerly/ludusavi/pull/655)).
 
 ### [Seiso](https://github.com/scarletkc/seiso) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/seiso?style=for-the-badge&label=stars)](https://github.com/scarletkc/seiso/stargazers)
 
