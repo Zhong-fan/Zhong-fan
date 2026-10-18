@@ -10,7 +10,11 @@
 
 ## ✨ Contributions
 
-<p align="center">Selected contributions across four open-source projects</p>
+<p align="center">Selected merged work across six public repositories</p>
+
+### [Ludusavi](https://github.com/mtkennerly/ludusavi) [![GitHub stars](https://img.shields.io/github/stars/mtkennerly/ludusavi?style=for-the-badge&label=stars)](https://github.com/mtkennerly/ludusavi/stargazers)
+
+- **Made the duplicates filter easier to clear** by keeping the status-row badge available after matching games are hidden or conflicts are resolved, for both backup and restore ([#655](https://github.com/mtkennerly/ludusavi/pull/655)).
 
 ### [REA](https://github.com/morluto/rea) [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=for-the-badge&label=stars)](https://github.com/morluto/rea/stargazers)
 
@@ -21,6 +25,7 @@
 
 ### [Super Productivity](https://github.com/super-productivity/super-productivity) [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=for-the-badge&label=stars)](https://github.com/super-productivity/super-productivity/stargazers)
 
+- **Preserved priority across recurring tasks**, adding a series-level default that carries to future occurrences while retaining per-task overrides ([#10821](https://github.com/super-productivity/super-productivity/pull/10821)).
 - **Fixed configured previous/next task navigation on project group headers**, so shortcuts can continue across grouped tasks ([#10822](https://github.com/super-productivity/super-productivity/pull/10822)).
 
 ### [Seiso](https://github.com/scarletkc/seiso) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/seiso?style=for-the-badge&label=stars)](https://github.com/scarletkc/seiso/stargazers)
@@ -33,5 +38,9 @@
 ### [OpenPI](https://github.com/openpi-dev/openpi) [![GitHub stars](https://img.shields.io/github/stars/openpi-dev/openpi?style=for-the-badge&label=stars)](https://github.com/openpi-dev/openpi/stargazers)
 
 - **Made the web UI's [Plan Ready handoff actionable](https://github.com/openpi-dev/openpi/pull/634)**, so a prepared plan can be continued from the interface.
+
+### [Ordering System](https://github.com/Zhong-fan/Ordering-System)
+
+- **Updated the project directory guide and linked its setup notes, database scripts, and course materials**, making key resources easier to find ([#1](https://github.com/Zhong-fan/Ordering-System/pull/1)).
 
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
