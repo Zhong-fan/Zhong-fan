@@ -10,7 +10,7 @@
 
 ## ✨ Contributions
 
-<p align="center">Selected merged work across six public repositories</p>
+<p align="center">Selected merged work across five public repositories</p>
 
 ### [Ludusavi](https://github.com/mtkennerly/ludusavi) [![GitHub stars](https://img.shields.io/github/stars/mtkennerly/ludusavi?style=for-the-badge&label=stars)](https://github.com/mtkennerly/ludusavi/stargazers)
 
@@ -38,9 +38,5 @@
 ### [OpenPI](https://github.com/openpi-dev/openpi) [![GitHub stars](https://img.shields.io/github/stars/openpi-dev/openpi?style=for-the-badge&label=stars)](https://github.com/openpi-dev/openpi/stargazers)
 
 - **Made the web UI's [Plan Ready handoff actionable](https://github.com/openpi-dev/openpi/pull/634)**, so a prepared plan can be continued from the interface.
-
-### [Ordering System](https://github.com/Zhong-fan/Ordering-System)
-
-- **Updated the project directory guide and linked its setup notes, database scripts, and course materials**, making key resources easier to find ([#1](https://github.com/Zhong-fan/Ordering-System/pull/1)).
 
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
