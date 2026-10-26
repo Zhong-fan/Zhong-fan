@@ -10,7 +10,7 @@
 
 ## ✨ Contributions
 
-<p align="center">Selected merged work across five public repositories</p>
+<p align="center">Selected merged work across six public repositories</p>
 
 ### [REA](https://github.com/morluto/rea) <a href="https://github.com/morluto/rea/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/morluto/rea" height="20" /></a>
 
@@ -28,6 +28,14 @@
 
 - **Made the duplicates filter easier to clear** by keeping the status-row badge available after matching games are hidden or conflicts are resolved, for both backup and restore ([#655](https://github.com/mtkennerly/ludusavi/pull/655)).
 
+### [ooosplat](https://github.com/ooolabdev/ooosplat) <a href="https://github.com/ooolabdev/ooosplat/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/ooolabdev/ooosplat" height="20" /></a>
+
+- **Improved FFprobe preflight diagnostics**, distinguishing engine startup failures from invalid video input, saving diagnostic logs before project creation, and showing detailed engine health information ([#54](https://github.com/ooolabdev/ooosplat/pull/54)).
+
+### [OpenPI](https://github.com/openpi-dev/openpi) <a href="https://github.com/openpi-dev/openpi/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/openpi-dev/openpi" height="20" /></a>
+
+- **Made the web UI's [Plan Ready handoff actionable](https://github.com/openpi-dev/openpi/pull/634)**, so a prepared plan can be continued from the interface.
+
 ### [Seiso](https://github.com/scarletkc/seiso) <a href="https://github.com/scarletkc/seiso/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/scarletkc/seiso" height="20" /></a>
 
 - **Linked diagnostics to versioned rule documentation** in JSON and SARIF output, so editors and code review tools can open the explanation for a finding ([#22](https://github.com/scarletkc/seiso/pull/22)).
@@ -35,8 +43,5 @@
 - **Resolved GitHub annotation paths** from the repository root, so annotations point to the right source files ([#89](https://github.com/scarletkc/seiso/pull/89)).
 - **Made inherited configuration lists additive**, allowing child configurations to extend parent lists ([#38](https://github.com/scarletkc/seiso/pull/38)).
 
-### [OpenPI](https://github.com/openpi-dev/openpi) <a href="https://github.com/openpi-dev/openpi/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/openpi-dev/openpi" height="20" /></a>
-
-- **Made the web UI's [Plan Ready handoff actionable](https://github.com/openpi-dev/openpi/pull/634)**, so a prepared plan can be continued from the interface.
-
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
+
