@@ -1,51 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Hello%21%20Remember%20to%20eat%20lunch%21%20%F0%9F%91%8B%3BBaking%20bread%20%26%20making%20milk%20drinks%3BStill%20honing%20my%20sleep%20skills%20%F0%9F%98%B4" alt="Hello! Remember to eat lunch!; Baking bread &amp; making milk drinks; Still honing my sleep skills" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=28&amp;duration=3200&amp;pause=900&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=55&amp;lines=Hello%21%20Remember%20to%20eat%20lunch%21%20%F0%9F%91%8B%3BBaking%20bread%20%26%20making%20milk%20drinks%3BStill%20honing%20my%20sleep%20skills%20%F0%9F%98%B4" alt="Hello! Remember to eat lunch! 👋; Baking bread &amp; making milk drinks; Still honing my sleep skills 😴" />
 </p>
 
 <p align="center">Someone who loves to eat</p>
 
-<p align="center">
-  <a href="https://x.com/Jidechizhongfan"><img src="https://img.shields.io/badge/X-%40Jidechizhongfan-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @Jidechizhongfan" /></a>
-  <img src="https://img.shields.io/github/followers/Zhong-fan?style=flat-square&amp;logo=github&amp;logoColor=white&amp;color=2F81F7&amp;label=followers" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Zhong-fan&amp;style=flat-square&amp;color=2F81F7&amp;label=views" alt="Profile views" />
-</p>
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,vue,python,cs,cpp,rust,powershell&amp;theme=dark" alt="Java, TypeScript, JavaScript, Vue, Python, C#, C++, Rust, PowerShell" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,github,bash,vscode,idea&amp;theme=dark" alt="Git, Linux, Docker, GitHub, Bash, VS Code, IntelliJ IDEA" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&amp;logoColor=white" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/MCP-2F81F7?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex" />
-</p>
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%" />
-</p>
-
-<p align="center"><sub>Cards are regenerated daily by <a href="./.github/workflows/profile-cards.yml">this workflow</a> and committed as SVG, so they render without any third-party service at view time.</sub></p>
+<p align="center"><a href="https://x.com/Jidechizhongfan"><img src="https://img.shields.io/badge/X-%40Jidechizhongfan-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @Jidechizhongfan" /></a></p>
 
 ---
 
@@ -86,3 +45,4 @@
 - **Made inherited configuration lists additive**, allowing child configurations to extend parent lists ([#38](https://github.com/scarletkc/seiso/pull/38)).
 
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
+
