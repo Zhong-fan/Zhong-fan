@@ -4,13 +4,25 @@
 
 <p align="center">Someone who loves to eat</p>
 
+<p align="center">Third-year undergraduate student in Zhejiang, China</p>
+
 <p align="center"><a href="https://x.com/Jidechizhongfan"><img src="https://img.shields.io/badge/X-%40Jidechizhongfan-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @Jidechizhongfan" /></a></p>
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,rust,mysql&amp;theme=dark" alt="Java, TypeScript, JavaScript, Python, Rust, MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,spring,dotnet,githubactions,docker&amp;theme=dark" alt="Node.js, Vue, Spring Boot, .NET, GitHub Actions, Docker" />
+</p>
 
 ---
 
 ## ✨ Contributions
 
-<p align="center">Selected merged work across six public repositories</p>
+<p align="center">Selected merged work across eight public repositories</p>
 
 ### [REA](https://github.com/morluto/rea) <a href="https://github.com/morluto/rea/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/morluto/rea" height="20" /></a>
 
@@ -18,7 +30,12 @@
 - **Added [raw NMOS 6502 analysis support](https://github.com/morluto/rea/pull/2079)** to Ghidra for explicitly selected, headerless 6502 images, with load-address handling and checks against the original file bytes.
 - **Fixed [file-offset resolution in Ghidra decompilation](https://github.com/morluto/rea/pull/2101)**, so decompiled functions map to the correct locations in the original file.
 - **Contributed fixes to inline `Evidence` admission**, rejecting accessors and executable array members before parsing and bounding array admission. The work was integrated into [#3613](https://github.com/morluto/rea/pull/3613).
-- **Implemented classic iNES region inspection and extraction**, with follow-up work in [#2816](https://github.com/morluto/rea/pull/2816).
+- **Implemented classic iNES region inspection and extraction** ([#2087](https://github.com/morluto/rea/pull/2087)), merged through [#2816](https://github.com/morluto/rea/pull/2816).
+
+### [claude-mem](https://github.com/thedotmack/claude-mem) <a href="https://github.com/thedotmack/claude-mem/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/thedotmack/claude-mem" height="20" /></a>
+
+- **Made failed [post-delete Chroma cleanups retryable](https://github.com/thedotmack/claude-mem/pull/5673)**, so documents left behind by an outage are recorded in the sync checkpoint and drained by the next backfill or the first reconnect ([#5664](https://github.com/thedotmack/claude-mem/issues/5664)).
+- **Replaced the ["~10x token savings" claim](https://github.com/thedotmack/claude-mem/pull/5889)** with the measured per-result size ratio across the README, the architecture and usage pages, the mem-search skill and the MCP tool descriptions ([#4138](https://github.com/thedotmack/claude-mem/issues/4138)).
 
 ### [Super Productivity](https://github.com/super-productivity/super-productivity) <a href="https://github.com/super-productivity/super-productivity/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/super-productivity/super-productivity" height="20" /></a>
 
@@ -43,6 +60,10 @@
 - **Cached duplicate-prefix sort keys** to avoid repeating the same work during rule evaluation ([#88](https://github.com/scarletkc/seiso/pull/88)).
 - **Resolved GitHub annotation paths** from the repository root, so annotations point to the right source files ([#89](https://github.com/scarletkc/seiso/pull/89)).
 - **Made inherited configuration lists additive**, allowing child configurations to extend parent lists ([#38](https://github.com/scarletkc/seiso/pull/38)).
+
+### [Misyn](https://github.com/yzdy-s/Misyn) <a href="https://github.com/yzdy-s/Misyn/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/yzdy-s/Misyn" height="20" /></a>
+
+- **Added channel invitations and member management** to the Java chat backend: invite, accept and decline, plus kick, mute and join-mode settings ([#7](https://github.com/yzdy-s/Misyn/pull/7)).
 
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
 
