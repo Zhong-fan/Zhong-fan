@@ -22,7 +22,7 @@
 
 ## ✨ Contributions
 
-<p align="center">Selected merged work across eight public repositories</p>
+<p align="center">Selected merged work across seven public repositories</p>
 
 ### [REA](https://github.com/morluto/rea) <a href="https://github.com/morluto/rea/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/morluto/rea" height="20" /></a>
 
@@ -60,10 +60,6 @@
 - **Cached duplicate-prefix sort keys** to avoid repeating the same work during rule evaluation ([#88](https://github.com/scarletkc/seiso/pull/88)).
 - **Resolved GitHub annotation paths** from the repository root, so annotations point to the right source files ([#89](https://github.com/scarletkc/seiso/pull/89)).
 - **Made inherited configuration lists additive**, allowing child configurations to extend parent lists ([#38](https://github.com/scarletkc/seiso/pull/38)).
-
-### [Misyn](https://github.com/yzdy-s/Misyn) <a href="https://github.com/yzdy-s/Misyn/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/yzdy-s/Misyn" height="20" /></a>
-
-- **Added channel invitations and member management** to the Java chat backend: invite, accept and decline, plus kick, mute and join-mode settings ([#7](https://github.com/yzdy-s/Misyn/pull/7)).
 
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
 
