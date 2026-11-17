@@ -64,3 +64,17 @@
 
 [More merged contributions](https://github.com/pulls?q=is%3Apr+author%3AZhong-fan+is%3Amerged)
 
+
+---
+
+<details open>
+<summary><b>🐍 Contribution Snake</b></summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhong-fan/Zhong-fan/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Zhong-fan/Zhong-fan/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+  </picture>
+</p>
+
+</details>
