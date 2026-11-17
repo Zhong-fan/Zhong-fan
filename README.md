@@ -6,7 +6,15 @@
 
 <p align="center">Third-year undergraduate student in Zhejiang, China</p>
 
-<p align="center"><a href="https://x.com/Jidechizhongfan"><img src="https://img.shields.io/badge/X-%40Jidechizhongfan-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @Jidechizhongfan" /></a></p>
+<p align="center">
+  <a href="https://x.com/Jidechizhongfan"><img src="https://img.shields.io/badge/X-%40Jidechizhongfan-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X: @Jidechizhongfan" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zhong-fan"><img src="https://img.shields.io/github/followers/Zhong-fan?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=8B5CF6" alt="GitHub followers" /></a>
+  <a href="https://github.com/Zhong-fan?tab=repositories"><img src="https://img.shields.io/github/stars/Zhong-fan?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white&amp;color=EA580C" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Zhong-fan&amp;style=for-the-badge&amp;color=blueviolet" alt="Profile views" />
+</p>
 
 ## 🧰 Tech Stack
 
