@@ -36,6 +36,7 @@
 
 - **Made failed [post-delete Chroma cleanups retryable](https://github.com/thedotmack/claude-mem/pull/5673)**, so documents left behind by an outage are recorded in the sync checkpoint and drained by the next backfill or the first reconnect ([#5664](https://github.com/thedotmack/claude-mem/issues/5664)).
 - **Replaced the ["~10x token savings" claim](https://github.com/thedotmack/claude-mem/pull/5889)** with the measured per-result size ratio across the README, the architecture and usage pages, the mem-search skill and the MCP tool descriptions ([#4138](https://github.com/thedotmack/claude-mem/issues/4138)).
+- **Made MCP [`save_memory` respect `CLAUDE_MEM_EXCLUDED_PROJECTS`](https://github.com/thedotmack/claude-mem/pull/6105)** by forwarding the caller's checkout, so an excluded project's note is refused instead of stored and the reply says why ([#6098](https://github.com/thedotmack/claude-mem/issues/6098)).
 
 ### [Super Productivity](https://github.com/super-productivity/super-productivity) <a href="https://github.com/super-productivity/super-productivity/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/super-productivity/super-productivity" height="20" /></a>
 
