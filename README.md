@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Zhong-fan&amp;style=for-the-badge&amp;color=blueviolet" alt="Profile views" />
 </p>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="32" />
@@ -38,7 +38,7 @@
 
 ---
 
-## ✨ Contributions
+## Contributions
 
 <p align="center">Selected merged work across seven public repositories</p>
 
