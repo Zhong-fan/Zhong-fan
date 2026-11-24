@@ -54,6 +54,7 @@
 - **Made MCP [`save_memory` respect `CLAUDE_MEM_EXCLUDED_PROJECTS`](https://github.com/thedotmack/claude-mem/pull/6105)** by forwarding the caller's checkout, so an excluded project's note is refused instead of stored and the reply says why ([#6098](https://github.com/thedotmack/claude-mem/issues/6098)).
 - **Coalesced [per-row Chroma sync-state writes](https://github.com/thedotmack/claude-mem/pull/6204)** into one checkpoint flush per 250 ms window, turning the O(n²) write pattern of a large backfill into a bounded one without changing crash recovery ([#6203](https://github.com/thedotmack/claude-mem/issues/6203)).
 - **Made [hook-spool drains asynchronous and bounded](https://github.com/thedotmack/claude-mem/pull/6260)** with 256-entry parallel batches, so a backlog left by an outage no longer blocks the worker's event loop while health checks and hooks share it ([#6247](https://github.com/thedotmack/claude-mem/issues/6247)).
+- **Surfaced [expired live-observer inputs in processing status](https://github.com/thedotmack/claude-mem/pull/6394)**, so an installation can tell how much queued work the observer dropped instead of only seeing a per-prune warning in the log ([#6391](https://github.com/thedotmack/claude-mem/issues/6391)).
 
 ### [Super Productivity](https://github.com/super-productivity/super-productivity) <a href="https://github.com/super-productivity/super-productivity/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/super-productivity/super-productivity" height="20" /></a>
 
