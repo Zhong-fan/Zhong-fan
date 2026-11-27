@@ -46,6 +46,7 @@
 - **Fixed [file-offset resolution in Ghidra decompilation](https://github.com/morluto/rea/pull/2101)**, so decompiled functions map to the correct locations in the original file.
 - **Contributed fixes to inline `Evidence` admission**, rejecting accessors and executable array members before parsing and bounding array admission. The work was integrated into [#3613](https://github.com/morluto/rea/pull/3613).
 - **Implemented classic iNES region inspection and extraction** ([#2087](https://github.com/morluto/rea/pull/2087)), merged through [#2816](https://github.com/morluto/rea/pull/2816).
+- **Fixed [JDK discovery for Windows Ghidra](https://github.com/morluto/rea/pull/14654)** when `JAVA_HOME` is unset, resolving `java.exe` through the caller's `PATH` instead of failing admission with `runtime_unavailable` / Win32 87 ([#14611](https://github.com/morluto/rea/issues/14611)).
 
 ### [claude-mem](https://github.com/thedotmack/claude-mem) <a href="https://github.com/thedotmack/claude-mem/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/thedotmack/claude-mem" height="20" /></a>
 
@@ -60,6 +61,7 @@
 
 - **Preserved priority across recurring tasks**, adding a series-level default that carries to future occurrences while retaining per-task overrides ([#10821](https://github.com/super-productivity/super-productivity/pull/10821)).
 - **Fixed configured previous/next task navigation on project group headers**, so shortcuts can continue across grouped tasks ([#10822](https://github.com/super-productivity/super-productivity/pull/10822)).
+- **Wired the [Electron idle-resume regression into CI](https://github.com/super-productivity/super-productivity/pull/11911)**, so the real main-process suspend/resume path runs against the packaged app instead of only locally ([#11895](https://github.com/super-productivity/super-productivity/issues/11895)).
 
 ### [Ludusavi](https://github.com/mtkennerly/ludusavi) <a href="https://github.com/mtkennerly/ludusavi/stargazers"><img alt="GitHub stars" src="https://badgen.net/github/stars/mtkennerly/ludusavi" height="20" /></a>
 
